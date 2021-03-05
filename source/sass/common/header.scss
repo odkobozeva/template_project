@@ -1,0 +1,10 @@
+.header {
+  background-color: gainsboro;
+  padding: 20px 0;
+}
+
+.header__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
